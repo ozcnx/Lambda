@@ -1,0 +1,2 @@
+# Lambda
+Java Lambda notlar
