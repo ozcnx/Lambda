@@ -175,7 +175,10 @@ public class Lambda01 {
 		
 		Optional<Integer>maxEl=list.stream().reduce(Math::max);
 		System.out.print(maxEl);
-		//reduce metfodu azaltmak anlamina gelir. Bircok atayi tekbir dataya cevirmek icin kullanilir.(max-min-carpma vs. islemlemlerde)
+		//reduce metfodu azaltmak anlamina gelir. Bircok datayi tekbir dataya cevirmek icin kullanilir.(max-min-carpma vs. islemlemlerde)
 	}
+	
+	
+	
 	
 }
